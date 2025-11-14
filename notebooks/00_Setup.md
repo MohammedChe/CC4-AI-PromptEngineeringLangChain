@@ -14,11 +14,12 @@
 
 3. Open this repo in VSCode and run the following in a Powershell terminal
 
+-   delete the .venv folder if it exists (restart terminal)
 -   python -m venv ./.venv
 -   Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 -   . .\.venv\Scripts\Activate.ps1
 -   python -m pip install --upgrade pip
--   pip install -r ./requirements.txt
+-   python -m pip install -r ./requirements.txt
 
 # Instructions for Mac
 
@@ -29,7 +30,7 @@
 
 2. Open this repo in VSCode and run the following in the terminal
 
--   delete the .venv folder if it exists
+-   delete the .venv folder if it exists (restart terminal)
 -   python3 -m venv ./.venv
 -   source ./.venv/bin/activate
 -   after the above command 'python -V' should work if you were using 'python3'
