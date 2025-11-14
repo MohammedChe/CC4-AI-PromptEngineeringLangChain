@@ -1,0 +1,23 @@
+# Core LangChain packages
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-openai>=0.0.1
+langchain-huggingface>=0.0.1
+
+# LLM and utilities
+openai>=1.0.0
+huggingface-hub>=0.17.0
+transformers>=4.30.0
+
+# Jupyter and data tools
+jupyter>=1.0.0
+notebook>=7.0.0
+ipython>=8.0.0
+
+# Utilities
+python-dotenv>=0.21.0
+pydantic>=2.0.0
+requests>=2.31.0
+
+# Optional but useful
+tqdm>=4.65.0
