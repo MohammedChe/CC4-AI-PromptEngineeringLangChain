@@ -18,3 +18,4 @@ duckduckgo-search>=8.1.1
 ddgs>=9.9.1
 wikipedia>=1.4.0
 youtube-search>=2.1.2
+transformers>=4.57.1
