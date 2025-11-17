@@ -14,3 +14,6 @@ langgraph-sdk>=0.2.9
 langsmith>=0.4.42
 pydantic>=2.12.4
 tiktoken>=0.12.0
+duckduckgo-search>=8.1.1
+ddgs>=9.9.1
+wikipedia>=1.4.0
